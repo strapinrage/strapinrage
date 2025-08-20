@@ -1,56 +1,54 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-magenta?style=for-the-badge&logo=github" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/Language-PHP-magenta?style=for-the-badge&logo=php" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/VSCode-IDE-magenta?style=for-the-badge&logo=visual-studio-code" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-%23FF00FF?style=for-the-badge" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Stack-PHP-%23D500F9?style=for-the-badge" alt="PHP Badge"/>
 </p>
 
-<h1 align="center">
-  💖 Witaj w moim GitHub! 💖
+<h1 align="center" style="color:#FF00FF">
+  💖 Witaj na moim profilu! 💖
 </h1>
 
 <p align="center">
-  <em>Tworzę nowoczesne aplikacje, eksperymentalne projekty i magentowe cuda 💜</em>
+  <em style="color:#FF00FF">Mój profil w pełni magentowy i neonowy 🌸</em>
 </p>
 
 ---
 
-## 🎨 Styl i Kolory
-Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
-- Akcenty #FF00FF / #D500F9  
-- Gradienty fioletowo-różowe  
-- Dark mode friendly 🌙  
+## 🖼️ Zdjęcia / Projekty 1
+<p align="center">
+  <img src="TWOJE_ZDJECIE1.png" alt="Zdjęcie 1" width="200"/>
+</p>
+
+## 🖼️ Zdjęcia / Projekty 2
+<p align="center">
+  <img src="TWOJE_ZDJECIE2.png" alt="Zdjęcie 2" width="200"/>
+</p>
+
+## 🖼️ Zdjęcia / Projekty 3
+<p align="center">
+  <img src="TWOJE_ZDJECIE3.png" alt="Zdjęcie 3" width="200"/>
+</p>
 
 ---
 
-## 🚀 Projekty
-| Nazwa | Opis | Status |
-|-------|------|-------|
-| **MagentaBot** | Bot AI w PHP, kolorowy jak profil | 🔥 W trakcie |
-| **VxtnxtLib** | Biblioteka narzędziowa do automatyzacji | ✅ Gotowy |
-| **NeonUI** | UI komponenty w stylu neon / magenta | ⚡ Eksperymentalny |
-
----
-
-## 🛠️ Stack Technologiczny
-- **Backend:** PHP 8, Laravel, Symfony  
-- **Frontend:** HTML5, CSS3, TailwindCSS, React  
-- **AI & Automation:** vxtnxt AI API, GPT, Gemini  
-- **Narzędzia:** Docker, GitHub Actions, VSCode  
+## 🛠️ Technologie
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-%23D500F9?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/HTML5-%23FF00FF?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-%23FF00FF?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23D500F9?style=for-the-badge&logo=javascript"/>
+</p>
 
 ---
 
 ## 🌟 Kontakt
 <p align="center">
-  <a href="https://github.com/twojprofil" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-Profile-magenta?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:twojemail@example.com">
-    <img src="https://img.shields.io/badge/Email-Write-magenta?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <img src="TWOJE_ZDJECIE_EMAIL.png" alt="Email" width="50"/>
+  <img src="TWOJE_ZDJECIE_GITHUB.png" alt="GitHub" width="50"/>
+  <img src="TWOJE_ZDJECIE_LINKEDIN.png" alt="LinkedIn" width="50"/>
 </p>
 
 ---
 
-<p align="center">
-  Made with 💖 and Magenta vibes
+<p align="center" style="color:#FF00FF">
+  Made with 💖 i magentowe vibes
 </p>
