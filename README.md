@@ -26,7 +26,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839148068307126/test.png?ex=68a78fe1&is=68a63e61&hm=4c029fe05552d2c7800d90f92b596583e626409f3b0b31ab68deb5d1d00e9a9d&" alt="Stack Technologiczny"/>
+  <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839308005511218/test.png?ex=68a79007&is=68a63e87&hm=c96c7afd44044b663f81114339a297e849ad1c20f3c9d2d9da9ee64fd228e076&" alt="Stack Technologiczny"/>
 </p>
 
 <p align="center">
