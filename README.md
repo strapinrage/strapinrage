@@ -26,7 +26,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack_Technologiczny-💻-magenta?style=for-the-badge" alt="Stack Technologiczny"/>
+  <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407838680957321246/test.png?ex=68a78f71&is=68a63df1&hm=660062893a42f12147661a5fa41ee2d052c153a34ed34cdcbf489e08ffbd84d6&" alt="Stack Technologiczny"/>
 </p>
 
 <p align="center">
