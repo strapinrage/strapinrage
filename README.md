@@ -20,11 +20,10 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
   <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839712475086888/projects.png?ex=68a79067&is=68a63ee7&hm=aaf743c6af5096d88b1fcfbaac8241ef5fb2021301be103d5b238be05731b4ea&" alt="Stack Technologiczny"/>
 </p>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: baseline; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
        style="width: 40px; height: 40px;">
-  <span style="font-size: 16px; color: #333;">Your description goes here</span>
   <span style="font-size: 16px; color: #333;">Your description goes here</span>
 </div>
 
