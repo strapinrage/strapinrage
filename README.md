@@ -33,17 +33,17 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
       <tr>
         <td><b>MagentaBot</b></td>
         <td>Bot AI w PHP, kolorowy jak profil</td>
-        <td>🔥 W trakcie</td>
+        <td><a href="TWOJ_LINK_DO_W_TRAKCIE">W trakcie</a></td>
       </tr>
       <tr>
         <td><b>VxtnxtLib</b></td>
         <td>Biblioteka narzędziowa do automatyzacji</td>
-        <td>✅ Gotowy</td>
+        <td><a href="TWOJ_LINK_DO_GOTOWY">Gotowy</a></td>
       </tr>
       <tr>
         <td><b>NeonUI</b></td>
         <td>UI komponenty w stylu neon / magenta</td>
-        <td>⚡ Eksperymentalny</td>
+        <td><a href="TWOJ_LINK_DO_EKSPERYMENTALNY">Eksperymentalny</a></td>
       </tr>
     </tbody>
   </table>
