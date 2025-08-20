@@ -23,7 +23,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 <div style="display: flex; align-items: baseline; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
-       style="width: 15px; height: 15px;">
+       style="width: 20px; height: 20px;">
   <span style="font-size: 16px; color: #333;">Your description goes here</span>
 </div>
 
