@@ -20,11 +20,34 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
   <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839712475086888/projects.png?ex=68a79067&is=68a63ee7&hm=aaf743c6af5096d88b1fcfbaac8241ef5fb2021301be103d5b238be05731b4ea&" alt="Stack Technologiczny"/>
 </p>
 
-| Nazwa | Opis | Status |
-|-------|------|-------|
-| **MagentaBot** | Bot AI w PHP, kolorowy jak profil | 🔥 W trakcie |
-| **VxtnxtLib** | Biblioteka narzędziowa do automatyzacji | ✅ Gotowy |
-| **NeonUI** | UI komponenty w stylu neon / magenta | ⚡ Eksperymentalny |
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nazwa</th>
+        <th>Opis</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>MagentaBot</b></td>
+        <td>Bot AI w PHP, kolorowy jak profil</td>
+        <td>🔥 W trakcie</td>
+      </tr>
+      <tr>
+        <td><b>VxtnxtLib</b></td>
+        <td>Biblioteka narzędziowa do automatyzacji</td>
+        <td>✅ Gotowy</td>
+      </tr>
+      <tr>
+        <td><b>NeonUI</b></td>
+        <td>UI komponenty w stylu neon / magenta</td>
+        <td>⚡ Eksperymentalny</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 ---
 
