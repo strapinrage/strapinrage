@@ -16,7 +16,10 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 
 ---
 
-## 🚀 Projekty
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839504256995359/projects.png?ex=68a79036&is=68a63eb6&hm=796eee3f27c5bd622e0f5c0c6e869ca015ffcc10b40adf54220f8c827ca4fe81&" alt="Stack Technologiczny"/>
+</p>
+
 | Nazwa | Opis | Status |
 |-------|------|-------|
 | **MagentaBot** | Bot AI w PHP, kolorowy jak profil | 🔥 W trakcie |
