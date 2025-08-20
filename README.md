@@ -21,38 +21,38 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 </p>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
-  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png" 
+  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
        style="width: 25px; height: 25px;">
   <span style="font-size: 16px; color: #333; line-height: 1;">
-    💜 <strong>PurpleHost.eu</strong> – Nowoczesny front-end dla hostingu, zbudowany w Next.js i TailwindCSS.
+    <strong>PurpleHost.eu</strong> – Nowoczesny front-end dla hostingu, zbudowany w Next.js i TailwindCSS.
   </span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
-  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png" 
+  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
        style="width: 25px; height: 25px;">
   <span style="font-size: 16px; color: #333; line-height: 1;">
-    💜 <strong>TestApp</strong> – Eksperymentalna aplikacja React + Firebase, pokazująca dynamiczne komponenty i autoryzację.
+    <strong>TestApp</strong> – Eksperymentalna aplikacja React + Firebase, pokazująca dynamiczne komponenty i autoryzację.
   </span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
-  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png" 
+  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
        style="width: 25px; height: 25px;">
   <span style="font-size: 16px; color: #333; line-height: 1;">
-    💜 <strong>MagentaDashboard</strong> – Dashboard analityczny z Prisma, Supabase i Tailwind, ciemny motyw, gradienty fioletowe.
+    <strong>MagentaDashboard</strong> – Dashboard analityczny z Prisma, Supabase i Tailwind, ciemny motyw, gradienty fioletowe.
   </span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
-  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png" 
+  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" 
        alt="success" 
        style="width: 25px; height: 25px;">
   <span style="font-size: 16px; color: #333; line-height: 1;">
-    💜 <strong>VueVibes</strong> – Projekt edukacyjny w Vue + Vite, pokazujący dynamiczne interakcje i animacje.
+    <strong>VueVibes</strong> – Projekt edukacyjny w Vue + Vite, pokazujący dynamiczne interakcje i animacje.
   </span>
 </div>
 
