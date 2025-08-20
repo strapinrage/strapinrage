@@ -1,7 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-BC0048?style=for-the-badge&logo=github" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/Language-PHP-BC0048?style=for-the-badge&logo=php" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/VSCode-IDE-BC0048?style=for-the-badge&logo=visual-studio-code" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
 </p>
 
 <h1 align="center">
