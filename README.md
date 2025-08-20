@@ -21,33 +21,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 </p>
 
 <p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Nazwa</th>
-        <th>Opis</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>MagentaBot</b></td>
-        <td>Bot AI w PHP, kolorowy jak profil</td>
-        <td><a href="TWOJ_LINK_DO_W_TRAKCIE">W trakcie</a></td>
-      </tr>
-      <tr>
-        <td><b>VxtnxtLib</b></td>
-        <td>Biblioteka narzędziowa do automatyzacji</td>
-        <td><a href="TWOJ_LINK_DO_GOTOWY">Gotowy</a></td>
-      </tr>
-      <tr>
-        <td><b>NeonUI</b></td>
-        <td>UI komponenty w stylu neon / magenta</td>
-        <td><a href="TWOJ_LINK_DO_EKSPERYMENTALNY">Eksperymentalny</a></td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+  <img src="https://cdn.discordapp.com/attachments/1383513382715527381/1407842682507886674/success.png?ex=68a7932b&is=68a641ab&hm=46f043156dd122d14661a37d2d86c177ccf8e3a547c032ee17c5818f4924e352&" alt="success"/>
 
 ---
 
