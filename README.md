@@ -8,14 +8,6 @@
 
 ---
 
-## 🎨 Styl i Kolory
-Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
-- Akcenty #FF00FF / #D500F9  
-- Gradienty fioletowo-różowe  
-- Dark mode friendly 🌙  
-
----
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839712475086888/projects.png?ex=68a79067&is=68a63ee7&hm=aaf743c6af5096d88b1fcfbaac8241ef5fb2021301be103d5b238be05731b4ea&" alt="Stack Technologiczny"/>
 </p>
