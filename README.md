@@ -25,7 +25,10 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
 
 ---
 
-## 🛠️ Stack Technologiczny
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack_Technologiczny-💻-magenta?style=for-the-badge" alt="Stack Technologiczny"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/>
@@ -39,6 +42,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
 </p>
+
 
 - **Backend:** PHP 8, Laravel, Symfony  
 - **Frontend:** HTML5, CSS3, TailwindCSS, React  
