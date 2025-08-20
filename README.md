@@ -45,27 +45,3 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
 </p>
-
-
-- **Backend:** PHP 8, Laravel, Symfony  
-- **Frontend:** HTML5, CSS3, TailwindCSS, React  
-- **AI & Automation:** vxtnxt AI API, GPT, Gemini  
-- **Narzędzia:** Docker, GitHub Actions, VSCode  
-
----
-
-## 🌟 Kontakt
-<p align="center">
-  <a href="https://github.com/twojprofil" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-Profile-magenta?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:twojemail@example.com">
-    <img src="https://img.shields.io/badge/Email-Write-magenta?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  Made with 💖 and Magenta vibes
-</p>
