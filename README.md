@@ -1,12 +1,3 @@
-<h1 align="center">
-  💖 Witaj w moim GitHub! 💖
-</h1>
-
-<p align="center">
-  <em>Tworzę nowoczesne aplikacje, eksperymentalne projekty i magentowe cuda 💜</em>
-</p>
-
----
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1357599670594961484/1407839712475086888/projects.png?ex=68a79067&is=68a63ee7&hm=aaf743c6af5096d88b1fcfbaac8241ef5fb2021301be103d5b238be05731b4ea&" alt="Stack Technologiczny"/>
