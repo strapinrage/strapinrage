@@ -25,6 +25,7 @@ Uwielbiam wszystko, co **magenta/fiolet**, dlatego mój profil i projekty mają:
        alt="success" 
        style="width: 40px; height: 40px;">
   <span style="font-size: 16px; color: #333;">Your description goes here</span>
+  <span style="font-size: 16px; color: #333;">Your description goes here</span>
 </div>
 
 ---
