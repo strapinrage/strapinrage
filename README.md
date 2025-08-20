@@ -13,24 +13,19 @@
 
 ---
 
-## 🖼️ Zdjęcia / Projekty 1
+## 🖼️ Moje zdjęcia / projekty
+
 <p align="center">
+  <!-- Tutaj możesz wstawić swoje zdjęcia -->
   <img src="TWOJE_ZDJECIE1.png" alt="Zdjęcie 1" width="200"/>
-</p>
-
-## 🖼️ Zdjęcia / Projekty 2
-<p align="center">
   <img src="TWOJE_ZDJECIE2.png" alt="Zdjęcie 2" width="200"/>
-</p>
-
-## 🖼️ Zdjęcia / Projekty 3
-<p align="center">
   <img src="TWOJE_ZDJECIE3.png" alt="Zdjęcie 3" width="200"/>
 </p>
 
 ---
 
 ## 🛠️ Technologie
+
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-%23D500F9?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/HTML5-%23FF00FF?style=for-the-badge&logo=html5"/>
@@ -40,8 +35,10 @@
 
 ---
 
-## 🌟 Kontakt
+## 🌟 Miejsca na linki / kontakt
+
 <p align="center">
+  <!-- Zamiast tekstu możesz wstawić swoje obrazki -->
   <img src="TWOJE_ZDJECIE_EMAIL.png" alt="Email" width="50"/>
   <img src="TWOJE_ZDJECIE_GITHUB.png" alt="GitHub" width="50"/>
   <img src="TWOJE_ZDJECIE_LINKEDIN.png" alt="LinkedIn" width="50"/>
