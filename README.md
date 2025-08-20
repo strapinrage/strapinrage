@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-magenta?style=for-the-badge&logo=github" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/Language-PHP-magenta?style=for-the-badge&logo=php" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/VSCode-IDE-magenta?style=for-the-badge&logo=visual-studio-code" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-BC0048?style=for-the-badge&logo=github" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Language-PHP-BC0048?style=for-the-badge&logo=php" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/VSCode-IDE-BC0048?style=for-the-badge&logo=visual-studio-code" alt="VSCode Badge"/>
 </p>
 
 <h1 align="center">
